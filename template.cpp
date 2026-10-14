@@ -1,4 +1,5 @@
 // 2026/10/05テンプレート
+// https://github.com/fiveofwell/competitive-programming-templates/blob/main/template.cpp
 #include <bits/stdc++.h>
 using namespace std;
 
